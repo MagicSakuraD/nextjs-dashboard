@@ -19,7 +19,6 @@ const links = [
     icon: DocumentDuplicateIcon,
   },
   { name: "Customers", href: "/dashboard/customers", icon: UserGroupIcon },
-  { name: "地图", href: "/dashboard/map", icon: MapIcon },
 ];
 
 export default function NavLinks() {
